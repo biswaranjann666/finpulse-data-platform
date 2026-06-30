@@ -1,0 +1,11 @@
+finpulse-data-platform/
+├── README.md
+├── notebooks/
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
+├── src/                  (reusable Python modules/functions)
+├── tests/                (data quality / unit tests)
+├── data_generator/       (our simulated source data scripts)
+├── docs/                 (architecture notes, decisions)
+└── workflows/            (job/orchestration definitions later)
